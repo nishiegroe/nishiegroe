@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋 Hi there, I'm Nishie!
+
+I'm a Full-Stack developer with a love for frontend development, currently working for USG!
+
 
 <!--
 **nishiegroe/nishiegroe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
