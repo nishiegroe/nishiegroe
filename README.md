@@ -11,18 +11,33 @@
 </h3>
 
 <h3 align="center">
-    I'm a Full-Stack developer with a love for frontend development, currently working for &nbsp;
-    <a href="https://www.usg.com/content/usgcom/en.html">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/USG_Corporation_logo.svg/1200px-USG_Corporation_logo.svg.png" width="45px" alt="USG Logo" /></a>.
+    I'm a Full-Stack developer with a love for frontend development.
 </h3>
+
+---
+
+<div align="center">
+    <h3>Experiences</h3>
+        <img align="center" alt="John Deere" src="https://www.deere.co.nz/assets/images/common/our-company/history/JD_Trademark_Current_884x663.png" height="100px" alt="USG Logo" />
+    <img align="center" alt="USG" src="https://builtworlds.com/wp-content/uploads/2017/04/USG-logo.png" height="100px" alt="USG Logo" />
+    </br>
+</div>
+
+</br>
 
 ## Hobbies :sunrise_over_mountains:
 
 - Video Game Nerd :sunglasses:
-- Homelab Tinkerer
+- Homelab Tinkerer :wrench:
 - Music Lover :musical_note:
 
-## <br/><br/><br/>
+## TV Shows :tv:
+
+- Adventure Time :deciduous_tree:
+- Dexter :microscope:
+- Brooklyn Nine-Nine :police_car:
+
+##
 
 <h4 align="center">
     Looking for more info? Visit  my 
