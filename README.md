@@ -4,7 +4,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" width="25px" alt="LinkedIn Logo" />](https://www.linkedin.com/in/nishie-groe/)
 <img src="./assets/pronouns.png" height="25px" alt="LinkedIn Logo" />
 
-### I'm a Full-Stack developer with a love for frontend development, currently working for <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/USG_Corporation_logo.svg/1200px-USG_Corporation_logo.svg.png" width="45px" alt="USG Logo" />!
+### I'm a Full-Stack developer with a love for frontend development, currently working for &nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/USG_Corporation_logo.svg/1200px-USG_Corporation_logo.svg.png" width="45px" alt="USG Logo" />](https://www.usg.com/content/usgcom/en.html)!
 
 #### Looking for more info? Visit [my portfolio](https://nishiegroe.com).
 
