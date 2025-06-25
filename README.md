@@ -39,9 +39,11 @@
 
 ---
 
-<h4 align="center">
-    Looking for more info? Visit  my 
-    <a href="https://nishiegroe.com">&rarr; Portfolio. &larr;</a>
+<h3 align="center">
+    Looking for more info? Visit my portfolio.
+    <h3 align="center">
+        <a href="https://nishiegroe.com">&rarr; NishieGroe.com &larr;</a>
+    </h3>
 </h4>
 
 <!--
