@@ -11,7 +11,7 @@
 </h3>
 
 <h3 align="center">
-    I'm a Full-Stack developer with a love for frontend development.
+    A Full-Stack developer with a love for frontend development.
 </h3>
 
 ---
