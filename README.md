@@ -10,16 +10,20 @@
     Chicago
 </h3>
 
-<div align='center'>
-
-</div>
-
 <h3 align="center">
     I'm a Full-Stack developer with a love for frontend development, currently working for &nbsp;
     <a href="https://www.usg.com/content/usgcom/en.html">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/USG_Corporation_logo.svg/1200px-USG_Corporation_logo.svg.png" width="45px" alt="USG Logo" /></a>.
 </h3>
-<br/><br/><br/>
+
+## Hobbies :sunrise_over_mountains:
+
+- Video Game Nerd :sunglasses:
+- Homelab Tinkerer
+- Music Lover :musical_note:
+
+## <br/><br/><br/>
+
 <h4 align="center">
     Looking for more info? Visit  my 
     <a href="https://nishiegroe.com">&rarr; Portfolio. &larr;</a>
